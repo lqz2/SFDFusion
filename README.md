@@ -2,6 +2,8 @@
 
 Code of "SFDFusion: An Efficient Spatial-Frequency Domain Fusion Network for Infrared and Visible Image Fusion"
 
+paper link [[here]](https://ebooks.iospress.nl/doi/10.3233/FAIA240524)
+
 ![](./poster.jpg)
 
 ## Environments
