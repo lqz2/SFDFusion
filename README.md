@@ -40,4 +40,4 @@ python fuse.py
 
 ## Dataset
 
-MSRS dataset is used to train. You can get it from [here](https://pan.baidu.com/s/1IrlqjmyvwWe5OHZEiiAtTA?pwd=e6yg).
+MSRS dataset is used to train. You can get it from [here](https://github.com/Linfeng-Tang/MSRS).
