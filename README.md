@@ -6,7 +6,7 @@ Accepted by [ECAI 2024](https://www.ecai2024.eu/programme/accepted-papers)
 
 paper link [[here]](https://ebooks.iospress.nl/doi/10.3233/FAIA240524)
 
-![](./poster.jpg)
+<!-- ![](./poster.jpg) -->
 
 ## Environments
 
